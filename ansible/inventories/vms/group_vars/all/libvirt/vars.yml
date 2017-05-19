@@ -5,5 +5,3 @@ libvirt_dns_zone: dom110.u13.org
 
 # Ip prefix used for newly created VMs
 libvirt_ip_prefix: '172.16.118'
-
-libvirt_user: root
