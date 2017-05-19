@@ -7,4 +7,4 @@ libvirt_dns_zone: dom118.u13.org
 libvirt_ip_prefix: '172.16.118'
 
 libvirt_dns_key: /etc/cleupdate.key
-libvirt_user: root
+libvirt_user: oneadmin
